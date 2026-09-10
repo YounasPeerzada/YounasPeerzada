@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Younus Peerzada</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Younas Peerzada</h1>
 <h3 align="center">A Passionate BS Computer Science Student | Full-Stack Developer in the Making</h3>
 
 <p align="center">
