@@ -26,14 +26,14 @@
 | **Backend & API** | <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" /> |
 | **Databases** | <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> |
 | **CS Fundamentals** | `DSA in C++` • `OOPs in C++` • `Clean Code Practices` |
-| **Tools** | <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> |
+| **Tools** | <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> |
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-younus-peerzada" target="_blank">
+  <a href="https://www.linkedin.com/in/younaspeerzada" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
     
